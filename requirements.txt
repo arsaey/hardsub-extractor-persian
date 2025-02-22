@@ -1,0 +1,8 @@
+paddleocr==2.9.1
+paddlepaddle==2.6.2
+pillow==11.1.0
+PyQt6==6.8.1
+pytesseract==0.3.13
+tqdm==4.67.1
+pyqt6-tools
+opencv-python
