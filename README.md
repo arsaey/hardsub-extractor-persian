@@ -1,0 +1,1 @@
+# hardsub-extractor-persian
